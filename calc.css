@@ -23,8 +23,8 @@ h1{
    border-radius: 10px;
    padding right: 10px;
    margin-bottom: 18px;
-   outline: none;
-   border: 0px solid;
+   text align: right;
+   letter-spacing: 1px;
 }
 
 input{
