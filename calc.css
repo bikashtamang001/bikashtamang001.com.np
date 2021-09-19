@@ -1,0 +1,28 @@
+.container{
+   margin: auto;
+}
+
+h1{
+   font-size: 50px;
+   font-family: Sans-serif;
+}
+
+.calc{
+   height: 370px;
+   background: #3d4543;
+   padding: 10px;
+   border-radius: 20px;
+   display: inline-block;
+}
+
+#answer{
+   background: #bccd95;
+   width: 370px;
+   height: 80px;
+   color: white;
+   border-radius: 10px;
+   padding right: 10px;
+   margin-bottom: 18px;
+   outline:none;
+   border: 0px solid;
+}
