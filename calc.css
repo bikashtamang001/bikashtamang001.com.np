@@ -3,7 +3,7 @@
 }
 
 h1{
-   font-size: 50px;
+   font-size: 40px;
    font-family: Sans-serif;
 }
 
@@ -12,8 +12,8 @@ body{
    background-size: cover;
 }
 .calc{
-   height: 370px;
-   background: light blue;
+   height: 300px;
+   background: #00f;
    padding: 10px;
    border-radius: 20px;
    display: inline-block;
@@ -21,20 +21,20 @@ body{
 
 #answer{
    background: #bccd95;
-   width: 370px;
-   height: 80px;
+   width: 300px;
+   height: 50px;
    color: black;
-   border-radius: 10px;
-   padding right: 10px;
-   margin-bottom: 18px;
+   border-radius: 8px;
+   padding right: 8px;
+   margin-bottom: 14px;
    text align: right;
    letter-spacing: 1px;
 }
 
 input{
-   font-size: 30px;
-   width: 60px;
-   height: 55px;
+   font-size: 25px;
+   width: 50px;
+   height: 45px;
    color: #fff;
    background: #6f6f6f;
    border-radius: 10px;
