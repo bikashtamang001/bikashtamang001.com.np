@@ -7,6 +7,9 @@ h1{
    font-family: Sans-serif;
 }
 
+body{
+   background: url(yoyo.jpg) no repeat;
+   background-size: cover;
 .calc{
    height: 370px;
    background: #3d4543;
