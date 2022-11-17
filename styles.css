@@ -80,14 +80,16 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   font-weight: 700;
   line-height: 1.2;
 }
-.container{
+.containerok{
   display: flex;
 }
 .box{
   background-color:blue;
-  margin: 10px;
-  padding: 20px;
-  border-radius: 5px;
+  margin: 5%;
+  padding: 10%;
+  width: 20%;
+  height: 10%;
+  border-radius: 5%;
 }
 .anchor{
    text-decoration: none;
