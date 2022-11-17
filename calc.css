@@ -8,7 +8,7 @@ h1{
 }
 
 body{
-   background-image: linear-gradient(225deg, white, turquoise);
+   background-image: linear-gradient(135deg, white, turquoise);
    background-size: cover;
 }
 .calc{
@@ -17,7 +17,7 @@ body{
    padding: 10px;
    border-radius: 20px;
    display: inline-block;
-   box-shadow:-5px 2.5px rgba(0,0,0,0.2);
+   box-shadow:5px 2.5px rgba(0,0,0,0.3);
 }
 
 
