@@ -8,7 +8,7 @@ h1{
 }
 
 body{
-   background: #AAA no-repeat;
+   background: linear-gradient(red,green);
    background-size: cover;
 }
 .calc{
