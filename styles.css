@@ -88,6 +88,12 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   margin: 5%;
   padding: 10%;
   border-radius: 5%;
+  width: 80%;
+}
+@media (min-width:1200px){
+  .box{
+    width:20%;
+  }
 }
 .anchor{
    text-decoration: none;
