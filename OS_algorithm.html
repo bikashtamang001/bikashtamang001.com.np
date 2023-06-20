@@ -117,6 +117,7 @@
         let output = document.getElementById("output");
         output.innerHTML =
           "Processes " +
+          " Arrival time " +
           " Burst time " +
           " Turn around time "+
           " Waiting time <br> " ;
@@ -130,6 +131,8 @@
             " " +
             proc[i].pid +
             "      " +
+            proc[i].at +
+            "    " +
             proc[i].bt +
             "    " +
             tat[i] +
